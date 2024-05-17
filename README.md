@@ -50,6 +50,3 @@ A curated list of resources related to ColBERT (Contextualized Late Interaction 
 - [Fast Search](https://github.com/stanford-futuredata/ColBERT/tree/fast_search) (Deprecated)
 - [Binarization](https://github.com/stanford-futuredata/ColBERT/tree/binarization) (Deprecated)
 
-## Acknowledgments
-
-- Logo designed by Chuyi Zhang
